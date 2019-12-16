@@ -1,8 +1,8 @@
 {
-  "name": "dz-11",
+  "name": "webpack_skeleton",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/main.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
     "build": "webpack --mode production",
